@@ -48,7 +48,7 @@
       "file": "",
       "line": 1,
       "title": "(Informational) Creating Additional Tenants",
-      "description": "## (Informational) Creating Additional Tenants\n\nAs of October 31, 2023, free Auth0 accounts are limited to one non-production tenant. \n\nHowever, if you have a paid Auth0 subscription, you will likely want to create additional tenants (i.e., staging and production) to support your software development lifecycle. This section walks you through creating additional tenants for your account. For information on how to achieve this, visit our documentation page on [Creating Multiple Tenants](https://auth0.com/docs/get-started/auth0-overview/create-tenants/create-multiple-tenants). "
+      "description": "## (Informational) Creating Additional Tenants\n\nAs of October 31, 2023, free Auth0 accounts are limited to one tenant. \n\nHowever, if you have a paid Auth0 subscription, you will likely want to create additional tenants (i.e., staging and production) to support your software development lifecycle. This section walks you through creating additional tenants for your account. For information on how to achieve this, visit our documentation page on [Creating Multiple Tenants](https://auth0.com/docs/get-started/auth0-overview/create-tenants/create-multiple-tenants). "
     },
     {
       "file": "",
